@@ -1,5 +1,6 @@
 # CodewayCase
 
+Resolution is 1440X3200.
 Has 3 levels.
 Click on the Turrets to open upgrade menu.
 
