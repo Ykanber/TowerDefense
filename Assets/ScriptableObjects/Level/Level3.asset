@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2314852b0ce353042b05321908cf0e91, type: 3}
+  m_Name: Level3
+  m_EditorClassIdentifier: 
+  startGold: 300
+  path:
+  - {x: 5, y: 9}
+  - {x: 4, y: 9}
+  - {x: 3, y: 9}
+  - {x: 3, y: 8}
+  - {x: 3, y: 7}
+  - {x: 3, y: 6}
+  - {x: 3, y: 5}
+  - {x: 3, y: 4}
+  - {x: 3, y: 3}
+  - {x: 3, y: 2}
+  - {x: 2, y: 2}
+  - {x: 1, y: 2}
+  - {x: 0, y: 2}
+  - {x: -1, y: 2}
+  - {x: -2, y: 2}
+  waves:
+  - {fileID: 11400000, guid: 956be1f957cdb624fa0432d868b0561a, type: 2}
+  - {fileID: 11400000, guid: fbf270e062c0b544199667ef0f229f0c, type: 2}
+  - {fileID: 11400000, guid: fbf270e062c0b544199667ef0f229f0c, type: 2}
+  - {fileID: 11400000, guid: 794c8da0a85f2734d97acb4600690854, type: 2}
+  - {fileID: 11400000, guid: 9d0de16582988d94fb8cfd6cbdd82c4d, type: 2}
+  - {fileID: 11400000, guid: 9d0de16582988d94fb8cfd6cbdd82c4d, type: 2}
+  - {fileID: 11400000, guid: ca24ae1bdeb66ab41b78f91955b1955e, type: 2}
+  - {fileID: 11400000, guid: ca24ae1bdeb66ab41b78f91955b1955e, type: 2}
+  towerPrefabs:
+  - {fileID: 1839841534763992415, guid: 91f265b27d4bd3345b2debdff6a9933c, type: 3}
+  towerLocations:
+  - {x: 0, y: 3}
+  - {x: 1, y: 3}
+  - {x: 2, y: 3}
+  - {x: 2, y: 4}
+  - {x: 2, y: 5}
+  - {x: 2, y: 6}
+  - {x: 2, y: 7}
+  - {x: 2, y: 8}
+  - {x: 2, y: 9}
+  - {x: 2, y: 10}
+  - {x: 3, y: 10}
+  - {x: 4, y: 10}
+  - {x: 4, y: 8}
+  - {x: 4, y: 7}
+  - {x: 4, y: 6}
+  - {x: 4, y: 5}
+  - {x: 4, y: 4}
+  - {x: 4, y: 3}
+  - {x: 4, y: 2}
+  - {x: 4, y: 1}
+  - {x: 3, y: 1}
+  - {x: 2, y: 1}
+  - {x: 1, y: 1}
+  - {x: 0, y: 1}
